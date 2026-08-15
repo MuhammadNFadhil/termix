@@ -1,0 +1,8 @@
+name: termix
+description: >-
+  A dependency-free toolkit for building interactive terminal UIs in Dart:
+  an MVU runtime, styling, color and width handling.
+version: 0.0.1
+
+environment:
+  sdk: ^3.5.0
